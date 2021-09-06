@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">cryptography</string>
+    <string-array name="Hash" >
+        <item>SHA-1</item>
+        <item>MD5</item>
+        <item>SHA-256</item>
+        <item>SHA-224</item>
+        <item>SHA-384</item>
+        <item>SHA-512</item>
+
+    </string-array>
+    <string-array name="rsa_key_sizes">
+        <item>512</item>
+        <item>768</item>
+        <item>1024</item>
+        <item>2048</item>
+        <item>3072</item>
+        <item>4096</item>
+    </string-array>
+
+</resources>
